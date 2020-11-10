@@ -12,6 +12,12 @@
     "from": "orderly.server"
   },
   {
+    "package": "jsonvalidate",
+    "url": "https://github.com/ropensci/jsonvalidate",
+    "via": ["porcelain"],
+    "from": "porcelain"
+  },
+  {
     "package": "orderly",
     "url": "https://github.com/vimc/orderly",
     "via": ["orderly.server"],
