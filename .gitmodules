@@ -1,4 +1,65 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/vimc/universe/
+	shallow = true
 	branch = HEAD
+[submodule "montagu"]
+	path = montagu
+	url = https://github.com/vimc/montagu-r
+	shallow = true
+	branch = master
+[submodule "orderly"]
+	path = orderly
+	url = https://github.com/vimc/orderly
+	shallow = true
+	branch = master
+[submodule "orderly.rstudio"]
+	path = orderly.rstudio
+	url = https://github.com/vimc/orderly.rstudio
+	shallow = true
+	branch = master
+[submodule "vaultr"]
+	path = vaultr
+	url = https://github.com/vimc/vaultr
+	shallow = true
+	branch = master
+[submodule "jenner"]
+	path = jenner
+	url = https://github.com/vimc/jenner
+	shallow = true
+	branch = master
+[submodule "orderly.server"]
+	path = orderly.server
+	url = https://github.com/vimc/orderly.server
+	shallow = true
+	branch = master
+[submodule "orderlyweb"]
+	path = orderlyweb
+	url = https://github.com/vimc/orderlyweb
+	shallow = true
+	branch = master
+[submodule "orderly.sharepoint"]
+	path = orderly.sharepoint
+	url = https://github.com/vimc/orderly.sharepoint
+	shallow = true
+	branch = master
+[submodule "beers"]
+	path = beers
+	url = https://github.com/mrc-ide/beers
+	shallow = true
+	branch = master
+[submodule "dettl"]
+	path = dettl
+	url = https://github.com/vimc/dettl
+	shallow = true
+	branch = master
+[submodule "porcelain"]
+	path = porcelain
+	url = https://github.com/reside-ic/porcelain
+	shallow = true
+	branch = master
+[submodule "jsonvalidate"]
+	path = jsonvalidate
+	url = https://github.com/ropensci/jsonvalidate
+	shallow = true
+	branch = master
