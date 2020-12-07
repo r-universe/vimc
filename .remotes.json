@@ -24,6 +24,12 @@
     "from": "orderly.server"
   },
   {
+    "package": "orderly",
+    "url": "https://github.com/vimc/orderly",
+    "via": ["orderlyweb"],
+    "from": "orderlyweb"
+  },
+  {
     "package": "porcelain",
     "url": "https://github.com/reside-ic/porcelain",
     "via": ["orderly.server"],
@@ -41,5 +47,11 @@
     "url": "https://github.com/vimc/vaultr",
     "via": ["orderly.server", "orderly"],
     "from": "orderly.server"
+  },
+  {
+    "package": "vaultr",
+    "url": "https://github.com/vimc/vaultr",
+    "via": ["orderlyweb", "orderly"],
+    "from": "orderlyweb"
   }
 ]
