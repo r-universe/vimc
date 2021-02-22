@@ -33,7 +33,6 @@
     "package": "porcelain",
     "url": "https://github.com/reside-ic/porcelain",
     "via": ["orderly.server"],
-    "branch": "22eef9b",
     "from": "orderly.server"
   },
   {
