@@ -20,6 +20,12 @@
   {
     "package": "orderly",
     "url": "https://github.com/vimc/orderly",
+    "via": ["orderly.rstudio"],
+    "from": "orderly.rstudio"
+  },
+  {
+    "package": "orderly",
+    "url": "https://github.com/vimc/orderly",
     "via": ["orderly.server"],
     "from": "orderly.server"
   },
@@ -40,6 +46,12 @@
     "url": "https://github.com/vimc/vaultr",
     "via": ["orderly"],
     "from": "orderly"
+  },
+  {
+    "package": "vaultr",
+    "url": "https://github.com/vimc/vaultr",
+    "via": ["orderly.rstudio", "orderly"],
+    "from": "orderly.rstudio"
   },
   {
     "package": "vaultr",
