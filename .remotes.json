@@ -50,12 +50,6 @@
   {
     "package": "vaultr",
     "url": "https://github.com/vimc/vaultr",
-    "via": ["orderly.rstudio", "orderly"],
-    "from": "orderly.rstudio"
-  },
-  {
-    "package": "vaultr",
-    "url": "https://github.com/vimc/vaultr",
     "via": ["orderlyweb", "orderly"],
     "from": "orderlyweb"
   }
