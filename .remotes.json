@@ -27,6 +27,7 @@
     "package": "orderly",
     "url": "https://github.com/vimc/orderly",
     "via": ["orderly.server"],
+    "branch": "fix-gitignore",
     "from": "orderly.server"
   },
   {
