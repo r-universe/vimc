@@ -46,11 +46,5 @@
     "url": "https://github.com/reside-ic/spud",
     "via": ["orderly.sharepoint"],
     "from": "orderly.sharepoint"
-  },
-  {
-    "package": "vaultr",
-    "url": "https://github.com/vimc/vaultr",
-    "via": ["orderlyweb", "orderly"],
-    "from": "orderlyweb"
   }
 ]
