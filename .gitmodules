@@ -9,81 +9,69 @@
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "orderly"]
 	path = orderly
 	url = https://github.com/vimc/orderly
 	shallow = true
 	branch = master
 	registered = true
-	oncran = true
 [submodule "orderly.rstudio"]
 	path = orderly.rstudio
 	url = https://github.com/vimc/orderly.rstudio
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "vaultr"]
 	path = vaultr
 	url = https://github.com/vimc/vaultr
 	shallow = true
 	branch = master
 	registered = true
-	oncran = true
 [submodule "jenner"]
 	path = jenner
 	url = https://github.com/vimc/jenner
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "orderly.server"]
 	path = orderly.server
 	url = https://github.com/vimc/orderly.server
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "orderlyweb"]
 	path = orderlyweb
 	url = https://github.com/vimc/orderlyweb
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "orderly.sharepoint"]
 	path = orderly.sharepoint
 	url = https://github.com/vimc/orderly.sharepoint
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "beers"]
 	path = beers
 	url = https://github.com/mrc-ide/beers
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "dettl"]
 	path = dettl
 	url = https://github.com/vimc/dettl
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "porcelain"]
 	path = porcelain
 	url = https://github.com/reside-ic/porcelain
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "jsonvalidate"]
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
 	shallow = true
 	branch = master
 	registered = true
-	oncran = true

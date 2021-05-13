@@ -1,0 +1,50 @@
+[
+  {
+    "package": "montagu",
+    "oncran": false
+  },
+  {
+    "package": "orderly",
+    "oncran": true
+  },
+  {
+    "package": "orderly.rstudio",
+    "oncran": false
+  },
+  {
+    "package": "vaultr",
+    "oncran": true
+  },
+  {
+    "package": "jenner",
+    "oncran": false
+  },
+  {
+    "package": "orderly.server",
+    "oncran": false
+  },
+  {
+    "package": "orderlyweb",
+    "oncran": false
+  },
+  {
+    "package": "orderly.sharepoint",
+    "oncran": false
+  },
+  {
+    "package": "beers",
+    "oncran": false
+  },
+  {
+    "package": "dettl",
+    "oncran": false
+  },
+  {
+    "package": "porcelain",
+    "oncran": false
+  },
+  {
+    "package": "jsonvalidate",
+    "oncran": true
+  }
+]
