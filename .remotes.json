@@ -50,12 +50,6 @@
   {
     "package": "vaultr",
     "url": "https://github.com/vimc/vaultr",
-    "via": ["orderly.server", "orderly"],
-    "from": "orderly.server"
-  },
-  {
-    "package": "vaultr",
-    "url": "https://github.com/vimc/vaultr",
     "via": ["orderlyweb", "orderly"],
     "from": "orderlyweb"
   }
