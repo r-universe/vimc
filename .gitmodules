@@ -75,3 +75,8 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "spud"]
+	path = spud
+	url = https://github.com/reside-ic/spud
+	shallow = true
+	registered = false

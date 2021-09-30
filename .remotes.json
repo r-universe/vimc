@@ -42,6 +42,12 @@
     "from": "orderly.server"
   },
   {
+    "package": "spud",
+    "url": "https://github.com/reside-ic/spud",
+    "via": ["orderly.sharepoint"],
+    "from": "orderly.sharepoint"
+  },
+  {
     "package": "vaultr",
     "url": "https://github.com/vimc/vaultr",
     "via": ["orderly.rstudio", "orderly"],
