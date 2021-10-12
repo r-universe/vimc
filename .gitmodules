@@ -15,12 +15,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "orderly.rstudio"]
-	path = orderly.rstudio
-	url = https://github.com/vimc/orderly.rstudio
-	shallow = true
-	branch = master
-	registered = true
 [submodule "vaultr"]
 	path = vaultr
 	url = https://github.com/vimc/vaultr
@@ -33,24 +27,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "orderly.server"]
-	path = orderly.server
-	url = https://github.com/vimc/orderly.server
-	shallow = true
-	branch = master
-	registered = true
-[submodule "orderlyweb"]
-	path = orderlyweb
-	url = https://github.com/vimc/orderlyweb
-	shallow = true
-	branch = master
-	registered = true
-[submodule "orderly.sharepoint"]
-	path = orderly.sharepoint
-	url = https://github.com/vimc/orderly.sharepoint
-	shallow = true
-	branch = master
-	registered = true
 [submodule "beers"]
 	path = beers
 	url = https://github.com/mrc-ide/beers
@@ -60,12 +36,6 @@
 [submodule "dettl"]
 	path = dettl
 	url = https://github.com/vimc/dettl
-	shallow = true
-	branch = master
-	registered = true
-[submodule "porcelain"]
-	path = porcelain
-	url = https://github.com/reside-ic/porcelain
 	shallow = true
 	branch = master
 	registered = true
