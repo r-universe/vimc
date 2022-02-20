@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/vimc/universe/
+	url = https://github.com/vimc/universe
 	shallow = true
 	branch = HEAD
 [submodule "montagu"]
