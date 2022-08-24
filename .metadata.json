@@ -37,5 +37,8 @@
   {
     "package": "jsonvalidate",
     "oncran": true
+  },
+  {
+    "package": "rrq"
   }
 ]
