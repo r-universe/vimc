@@ -8,12 +8,6 @@
   {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
-    "via": ["orderly.server"],
-    "from": "orderly.server"
-  },
-  {
-    "package": "jsonvalidate",
-    "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["porcelain"],
     "from": "porcelain"
   },
@@ -39,6 +33,13 @@
     "package": "porcelain",
     "url": "https://github.com/reside-ic/porcelain",
     "via": ["orderly.server"],
+    "from": "orderly.server"
+  },
+  {
+    "package": "rrq",
+    "url": "https://github.com/mrc-ide/rrq",
+    "via": ["orderly.server"],
+    "branch": "ebca6d1",
     "from": "orderly.server"
   },
   {
