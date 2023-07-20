@@ -26,6 +26,13 @@
   {
     "package": "orderly",
     "url": "https://github.com/vimc/orderly",
+    "via": ["orderly.sharepoint"],
+    "branch": "vimc-7135",
+    "from": "orderly.sharepoint"
+  },
+  {
+    "package": "orderly",
+    "url": "https://github.com/vimc/orderly",
     "via": ["orderlyweb"],
     "from": "orderlyweb"
   },
