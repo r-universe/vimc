@@ -2,6 +2,22 @@
 	path = .registry
 	url = https://github.com/vimc/universe
 	branch = HEAD
+[submodule "beers"]
+	path = beers
+	url = https://github.com/mrc-ide/beers
+	branch = master
+[submodule "dettl"]
+	path = dettl
+	url = https://github.com/vimc/dettl
+	branch = master
+[submodule "jenner"]
+	path = jenner
+	url = https://github.com/vimc/jenner
+	branch = master
+[submodule "jsonvalidate"]
+	path = jsonvalidate
+	url = https://github.com/ropensci/jsonvalidate
+	branch = master
 [submodule "montagu"]
 	path = montagu
 	url = https://github.com/vimc/montagu-r
@@ -14,41 +30,21 @@
 	path = orderly.rstudio
 	url = https://github.com/vimc/orderly.rstudio
 	branch = master
-[submodule "vaultr"]
-	path = vaultr
-	url = https://github.com/vimc/vaultr
-	branch = master
-[submodule "jenner"]
-	path = jenner
-	url = https://github.com/vimc/jenner
-	branch = master
 [submodule "orderly.server"]
 	path = orderly.server
 	url = https://github.com/vimc/orderly.server
-	branch = master
-[submodule "orderlyweb"]
-	path = orderlyweb
-	url = https://github.com/vimc/orderlyweb
 	branch = master
 [submodule "orderly.sharepoint"]
 	path = orderly.sharepoint
 	url = https://github.com/vimc/orderly.sharepoint
 	branch = master
-[submodule "beers"]
-	path = beers
-	url = https://github.com/mrc-ide/beers
-	branch = master
-[submodule "dettl"]
-	path = dettl
-	url = https://github.com/vimc/dettl
+[submodule "orderlyweb"]
+	path = orderlyweb
+	url = https://github.com/vimc/orderlyweb
 	branch = master
 [submodule "porcelain"]
 	path = porcelain
 	url = https://github.com/reside-ic/porcelain
-	branch = master
-[submodule "jsonvalidate"]
-	path = jsonvalidate
-	url = https://github.com/ropensci/jsonvalidate
 	branch = master
 [submodule "rrq"]
 	path = rrq
@@ -58,3 +54,7 @@
 	path = spud
 	url = https://github.com/reside-ic/spud
 	registered = false
+[submodule "vaultr"]
+	path = vaultr
+	url = https://github.com/vimc/vaultr
+	branch = master
