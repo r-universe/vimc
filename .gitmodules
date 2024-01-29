@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/vimc/universe
+	url = https://github.com/vimc/vimc.r-universe.dev
 	branch = HEAD
 [submodule "beers"]
 	path = beers
