@@ -12,6 +12,12 @@
     "from": "porcelain"
   },
   {
+    "package": "logwatch",
+    "url": "https://github.com/reside-ic/logwatch",
+    "via": ["rrq"],
+    "from": "rrq"
+  },
+  {
     "package": "orderly",
     "url": "https://github.com/vimc/orderly",
     "via": ["orderly.rstudio"],

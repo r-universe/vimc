@@ -18,6 +18,10 @@
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
 	branch = master
+[submodule "logwatch"]
+	path = logwatch
+	url = https://github.com/reside-ic/logwatch
+	registered = false
 [submodule "montagu"]
 	path = montagu
 	url = https://github.com/vimc/montagu-r
