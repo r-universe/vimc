@@ -10,6 +10,10 @@
 	path = dettl
 	url = https://github.com/vimc/dettl
 	branch = master
+[submodule "fakerbase"]
+	path = fakerbase
+	url = https://github.com/reside-ic/fakerbase
+	registered = false
 [submodule "jenner"]
 	path = jenner
 	url = https://github.com/vimc/jenner

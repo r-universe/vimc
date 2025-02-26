@@ -1,5 +1,11 @@
 [
   {
+    "package": "fakerbase",
+    "url": "https://github.com/reside-ic/fakerbase",
+    "via": ["vimpact"],
+    "from": "vimpact"
+  },
+  {
     "package": "jsonvalidate",
     "url": "https://github.com/ropensci/jsonvalidate",
     "via": ["orderly.server", "porcelain"],
