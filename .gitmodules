@@ -62,3 +62,7 @@
 	path = vaultr
 	url = https://github.com/vimc/vaultr
 	branch = master
+[submodule "vimclimate"]
+	path = vimclimate
+	url = https://github.com/vimc/vimclimate
+	branch = main
