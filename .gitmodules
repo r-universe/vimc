@@ -66,3 +66,7 @@
 	path = vimclimate
 	url = https://github.com/vimc/vimclimate
 	branch = main
+[submodule "vimpact"]
+	path = vimpact
+	url = https://github.com/vimc/vimpact
+	branch = master
