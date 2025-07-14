@@ -33,18 +33,10 @@
 [submodule "orderly"]
 	path = orderly
 	url = https://github.com/vimc/orderly
-	branch = master
-[submodule "orderly.rstudio"]
-	path = orderly.rstudio
-	url = https://github.com/vimc/orderly.rstudio
-	branch = master
-[submodule "orderly.server"]
-	path = orderly.server
-	url = https://github.com/vimc/orderly.server
-	branch = master
-[submodule "orderly.sharepoint"]
-	path = orderly.sharepoint
-	url = https://github.com/vimc/orderly.sharepoint
+	registered = false
+[submodule "orderly1"]
+	path = orderly1
+	url = https://github.com/vimc/orderly1
 	branch = master
 [submodule "orderlyweb"]
 	path = orderlyweb
