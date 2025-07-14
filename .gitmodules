@@ -30,10 +30,6 @@
 	path = montagu
 	url = https://github.com/vimc/montagu-r
 	branch = master
-[submodule "orderly"]
-	path = orderly
-	url = https://github.com/vimc/orderly
-	registered = false
 [submodule "orderly1"]
 	path = orderly1
 	url = https://github.com/vimc/orderly1
@@ -50,10 +46,6 @@
 	path = rrq
 	url = https://github.com/mrc-ide/rrq
 	branch = master
-[submodule "spud"]
-	path = spud
-	url = https://github.com/reside-ic/spud
-	registered = false
 [submodule "vaultr"]
 	path = vaultr
 	url = https://github.com/vimc/vaultr
