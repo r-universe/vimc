@@ -33,7 +33,7 @@
 [submodule "orderly1"]
 	path = orderly1
 	url = https://github.com/vimc/orderly1
-	branch = master
+	branch = main
 [submodule "orderlyweb"]
 	path = orderlyweb
 	url = https://github.com/vimc/orderlyweb
