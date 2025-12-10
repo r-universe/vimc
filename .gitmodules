@@ -50,6 +50,10 @@
 	path = vaultr
 	url = https://github.com/vimc/vaultr
 	branch = master
+[submodule "vimcheck"]
+	path = vimcheck
+	url = https://github.com/vimc/vimcheck
+	branch = main
 [submodule "vimclimate"]
 	path = vimclimate
 	url = https://github.com/vimc/vimclimate
