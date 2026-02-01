@@ -10,10 +10,6 @@
 	path = dettl
 	url = https://github.com/vimc/dettl
 	branch = master
-[submodule "fakerbase"]
-	path = fakerbase
-	url = https://github.com/reside-ic/fakerbase
-	registered = false
 [submodule "jenner"]
 	path = jenner
 	url = https://github.com/vimc/jenner
@@ -22,10 +18,6 @@
 	path = jsonvalidate
 	url = https://github.com/ropensci/jsonvalidate
 	branch = master
-[submodule "logwatch"]
-	path = logwatch
-	url = https://github.com/reside-ic/logwatch
-	registered = false
 [submodule "montagu"]
 	path = montagu
 	url = https://github.com/vimc/montagu-r
